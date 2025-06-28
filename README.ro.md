@@ -6,7 +6,7 @@ Acest proiect a fost creat cu ajutorul Vite. Pentru o mai bună cunoaștere
 ## Crearea repository-ului pe baza unui template
 
 Utilizează acest repository al organizației GoIT ca model pentru crearea unui 
-repository pentru proiectul personal. Pentru a face acest lucru, dă click pe 
+repository pentru proiectul personal. Pentru a face acest lucru, dă click/ pe 
 `"Use this template"` și selectează opțiunea `"Create a new repository"`, conform 
 imaginii.
 
