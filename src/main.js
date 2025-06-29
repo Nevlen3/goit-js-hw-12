@@ -16,7 +16,7 @@ const loadMoreBtn = document.querySelector('.load-more');
 
 let currentQuery = '';
 let currentPage = 1;
-const perPage = 40;
+const perPage = 15;
 let totalHits = 0;
 
 form.addEventListener('submit', async (e) => {
